@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "db_table_name" {
   type    = string
-  default = "tf-demo"
+  default = "tf-hashi"
 }
 
 variable "db_read_capacity" {
